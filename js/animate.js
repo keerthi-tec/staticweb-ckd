@@ -484,6 +484,4 @@ jQuery(document).ready(function($) {
 		}
 	);
 
-
-
 });
